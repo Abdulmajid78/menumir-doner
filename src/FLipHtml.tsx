@@ -14,7 +14,7 @@ const bookImages = [
     "https://res.cloudinary.com/dsfjba640/image/upload/v1758472804/00_zs2ytc.jpg"
 ];
 
-function FlipHtml() {
+function MirDoner() {
     const [page, setPage] = useState(0);
     const [zoom, setZoom] = useState(1.0);
     const [isMobile, setIsMobile] = useState(false);
@@ -75,7 +75,7 @@ function FlipHtml() {
             <div className="bg-black bg-opacity-50 backdrop-blur-sm border-b border-gray-700 p-3 md:p-3">
                 <div className="flex items-center justify-between max-w-7xl mx-auto">
                     <div className="text-center flex items-center justify-center"><h1 className="text-white relative font-bold text-md md:text-lg">Mir Doner</h1>
-                        <span className="text-[10px] top-10 absolute text-white">RESTAURANT</span>
+                        <span className="text-[10px] top-10 md:flex hidden absolute text-white">RESTAURANT</span>
                     </div>
                     {/* Zoom Controls */}
                     <div className="flex items-center space-x-1 md:space-x-2">
@@ -174,4 +174,4 @@ function FlipHtml() {
     );
 }
 
-export default FlipHtml;
+export default MirDoner;

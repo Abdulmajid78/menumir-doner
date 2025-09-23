@@ -1,9 +1,9 @@
-import FlipHtml from "./FLipHtml";
+import MirDoner from "./FLipHtml";
 function App() {
 
   
   return (
-    <FlipHtml/>
+    <MirDoner/>
   );
 }
 
