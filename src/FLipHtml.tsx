@@ -6,12 +6,12 @@ import mainbg from "./assets/mirdoner.webp";
 
 // Optimized image URLs
 const bookImages = [
-    "https://res.cloudinary.com/dsfjba640/image/upload/v1758472804/00_zs2ytc.jpg",
-    "https://res.cloudinary.com/dsfjba640/image/upload/v1758543830/001_unwlsy.jpg",
-    "https://res.cloudinary.com/dsfjba640/image/upload/v1758543831/002_wdqkzr.jpg",
-    "https://res.cloudinary.com/dsfjba640/image/upload/v1758543832/003_yz7omn.jpg",
-    "https://res.cloudinary.com/dsfjba640/image/upload/v1758543832/004_g5f5y1.jpg",
-    "https://res.cloudinary.com/dsfjba640/image/upload/v1758472804/00_zs2ytc.jpg"
+  "https://324rfedcsx.sirv.com/mir-doner/00.jpg",
+  "https://324rfedcsx.sirv.com/mir-doner/001.jpg",
+  "https://324rfedcsx.sirv.com/mir-doner/002.jpg",
+  "https://324rfedcsx.sirv.com/mir-doner/003.jpg",
+  "https://324rfedcsx.sirv.com/mir-doner/004.jpg",
+  "https://324rfedcsx.sirv.com/mir-doner/00.jpg"
 ];
 
 function MirDoner() {
